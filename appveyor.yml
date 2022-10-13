@@ -4,7 +4,7 @@ install:
 - npm install
 
 test_script:
-- npm start
+- npm test
 
 build: off
 
