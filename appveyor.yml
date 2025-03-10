@@ -2,6 +2,7 @@ image: Ubuntu
 
 install:
 - npm install
+- echo "ooooooo"
 
 test_script:
 - npm test
